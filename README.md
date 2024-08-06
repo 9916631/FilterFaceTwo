@@ -3,8 +3,6 @@ Hello Everyone
 
 This is my Tutorial on a basic AR Face Filter, Some basic Knowledge of Unity, Visual Studio and C#.
 
-This is a video on how to do a Main Menu Scene for the AR Face Filter application tutorial series.
-
 Here is the app to try on Google Play store: https://play.google.com/store/apps/details?id=com.RedQueenGaming.FilterFace&pcampaignid=web_share and to see what you could develop once you complete this short course.
 
 There is 3 Scenes: Facemesh, Objects and Glasses. 
